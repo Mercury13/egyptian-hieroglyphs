@@ -35,3 +35,7 @@ repository](https://github.com/notofonts/notofonts.github.io/blob/main/README.md
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is available with a FAQ at
 https://scripts.sil.org/OFL
+
+## Workarounds and issues that won’t be fixes
+
+13404…1340C: those extra vertices are workaround against Windows OTF cubic auto-hinting
