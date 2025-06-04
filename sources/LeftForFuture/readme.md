@@ -10,7 +10,7 @@
 # 130FB / 13AE8
 
 - U5.2: 130FB is a hamadryas, tail up
-- U9: 130FB is a chimpanzee, tail down
-- U14: changed back to hamadryas
+- U9: tail is down now
+- Noto drew as chimpanzee with tail up
 - U16: +13AE8 with tail up
 - U17: swapped for compatibility with Gardiner
